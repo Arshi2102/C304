@@ -1,1 +1,2 @@
-# C304
+# synchronousBallMovement
+Ball moving synchronously
